@@ -1,6 +1,5 @@
 # Malaysian-Skincare-Market-Analysis
 
-# Malaysian Skincare Market Analysis
 
 ## Interactive Dashboard
 View the Tableau visualization here:  
